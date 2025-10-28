@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+pandas
+python-dotenv
+requests
+pyngrok
+pypdf
+faiss-cpu
+tqdm
+numpy
+scikit-learn
